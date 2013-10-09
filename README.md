@@ -9,7 +9,7 @@ Contents
 This project contains the following extensions or resources for iOS and Android SDKs.
 
 1. OSTile offline [tile packages](#ostile-packages)
-2. Offline [Places of interest gazetteers database](#places-of-interest-geocoder-database)
+2. Offline [Places of interest gazetteer database](#places-of-interest-geocoder-database)
 
 
 
@@ -29,7 +29,9 @@ OSTiles packages are sets of map tiles, each package can store several layers, a
 
 Please refer to [OSTiles spec](ostiles_spec.md) for more details and how to create these packages.
 
-* Demo project: [OSTileSourceDemo](https://github.com/OrdnanceSurvey/ios-sdk-demo-tilesources)
+**DEMO**
+
+* [OSTileSourceDemo](https://github.com/OrdnanceSurvey/ios-sdk-demo-tilesources)
 
 
 #### Places of interest geocoder database
@@ -38,4 +40,30 @@ The places of interest geocoder database is created from [OpenData](https://www.
 
 Ordnance Survey will provide the tools to build this database shortly, until this is released please contact osopenspace@ordnancesurvey.co.uk if you require this feature.
 
-* Demo project: [OSLocateMe](https://github.com/OrdnanceSurvey/ios-sdk-demo-locate-me/)
+**DEMO**
+
+* [OSLocateMe](https://github.com/OrdnanceSurvey/ios-sdk-demo-locate-me/)
+
+
+Issues
+--------
+
+For any issues relating to developing with the SDK or resources, please email osopenspace@ordnancesurvey.co.uk
+
+
+
+Licence
+-------
+
+The OpenSpace iOS SDK and OpenSpace Android SDK are protected by © Crown copyright – Ordnance Survey 2012.[https://github.com/OrdnanceSurvey]
+
+All rights reserved (subject to the BSD licence terms as follows):.
+
+Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
+
+- Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.
+- Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.
+- Neither the name of Ordnance Survey nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE
+
