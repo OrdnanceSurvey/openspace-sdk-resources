@@ -1,7 +1,7 @@
 OS OpenSpace SDK resources
 -------
 
-Text here..
+This project describes extensions and resources for [OpenSpace iOS](https://github.com/OrdnanceSurvey/openspace-ios-sdk) and [OpenSpace Android](https://github.com/OrdnanceSurvey/openspace-android-sdk) SDKs.
 
 Contents
 -------
